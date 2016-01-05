@@ -1,6 +1,6 @@
 <?php
 session_start();
-$conn = mysqli_connect('localhost','root','cityafterme','freedomhack');
+$conn = mysqli_connect('localhost','root','','freedomhack');
 
 $name = $_POST['name'];
 $name = $conn->real_escape_string($name);
