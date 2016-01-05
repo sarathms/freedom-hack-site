@@ -1,6 +1,6 @@
 <?php
 session_start();
-$conn = mysqli_connect('568c08b22d52718c38000026-saky.rhcloud.com','admintamZKi7','Lfw4IMZKZSQc','freedomhack');
+$conn = mysqli_connect(getenv('OPENSHIFT_MYSQL_DB_HOST'), getenv('OPENSHIFT_MYSQL_DB_USERNAME'), getenv('OPENSHIFT_MYSQL_DB_PASSWORD'), getenv('OPENSHIFT_APP_NAME'));
 
 $name = $_POST['name'];
 $name = $conn->real_escape_string($name);
