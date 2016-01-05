@@ -26,8 +26,6 @@ include 'includes/head.php';
 
     <p>The theme of the event is <b>Fork The Internet</b> and all the solutions to the problem statements should be ways to achieve this.</p>
 
-    <p>Freedom Hack is an initiative of Free Software Movement Karnataka (FSMK), a non profit organisation which strives to promote the use and development of open source software.</p>
-
     <p><a href="register">Register now!</a></p>
   </div>
   <!-- /.container -->
