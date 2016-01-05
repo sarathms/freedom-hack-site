@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^home$ index.php
+RewriteRule ^register$ register.php
+RewriteRule ^schedule$ schedule.php
+RewriteRule ^who-was-aaron-swartz$ aaron.php
+RewriteRule ^rules-and-regulations$ rules.php
+RewriteRule ^about$ about.php
