@@ -2,7 +2,7 @@
 session_start();
 $login_check = $_SESSION['login_check'];
 if ($login_check == 1) {
-$conn = mysqli_connect(getenv('OPENSHIFT_MYSQL_DB_HOST'), getenv('OPENSHIFT_MYSQL_DB_USERNAME'), getenv('OPENSHIFT_MYSQL_DB_PASSWORD'), getenv('OPENSHIFT_APP_NAME'));
+$conn = mysqli_connect(getenv('OPENSHIFT_MYSQL_DB_HOST'), getenv('OPENSHIFT_MYSQL_DB_USERNAME'), getenv('OPENSHIFT_MYSQL_DB_PASSWORD'), getenv('OPENSHIFT_APP_NAME'), getenv('OPENSHIFT_MYSQL_DB_PORT'));
   $registrations = mysqli_query($conn, "SELECT * FROM registrations ORDER BY ID");
   ?>
   <!DOCTYPE html>
