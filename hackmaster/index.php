@@ -2,7 +2,7 @@
 session_start();
 $login_check = $_SESSION['login_check'];
 if ($login_check == 1) {
-  $conn = mysqli_connect('localhost', 'user', '', 'freedomhack');
+  $conn = mysqli_connect('568c08b22d52718c38000026-saky.rhcloud.com', 'admintamZKi7', 'Lfw4IMZKZSQc', 'freedomhack');
   $registrations = mysqli_query($conn, "SELECT * FROM registrations ORDER BY ID");
   ?>
   <!DOCTYPE html>

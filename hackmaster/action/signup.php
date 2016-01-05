@@ -1,6 +1,6 @@
 <?php
 session_start();
-$conn = mysqli_connect('localhost','root','','freedomhack');
+$conn = mysqli_connect('568c08b22d52718c38000026-saky.rhcloud.com','admintamZKi7','Lfw4IMZKZSQc','freedomhack');
 $username = $_POST['username'];
 $username = $conn->real_escape_string($username);
 $password = $_POST['password'];
