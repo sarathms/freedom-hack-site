@@ -13,18 +13,50 @@ include 'includes/head.php';
 
   <!-- Header for the page -->
   <header class="jumbotron hero-spacer">
-<h1>Register</h1>
+    <h1>Register</h1>
     <p>Register for Freedom Hack 2016 using the form below!</p>
   </header>
 
   <!-- Page Content -->
   <div class="container">
-    <!-- Change the width and height values to suit you best -->
-    <div class="typeform-widget" data-url="https://abhiram4.typeform.com/to/uZAAum" data-text="Freedom Hack 2.0" style="width:100%;height:500px;"></div>
-    <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
-    <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by <a href="http://www.typeform.com/?utm_campaign=uZAAum&amp;utm_source=typeform.com-1567566-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
-
-
+    <form method="post" action="action/register.php">
+      <div class="item">
+        <input type="text" class="form-control" name="name" id="name" placeholder="Enter your name *" required autofocus>
+      </div>
+      <div class="item">
+        <input type="email" class="form-control" name="email" id="email" placeholder="Enter your email address *" required>
+      </div>
+      <div class="item">
+        <input type="text" class="form-control" name="github" id="github" placeholder="Enter your Github handle">
+      </div>
+      <div class="item">
+        <input type="text" class="form-control" name="phone" id="phone" placeholder="Enter your phone number *" required>
+      </div>
+      <div class="item">
+        <input type="text" class="form-control" name="team" id="team" placeholder="Enter your team name">
+      </div>
+      <div class="item">
+        <select class="form-control" name="problem">
+          <option value="1">Communication app via mesh network</option>
+          <option value="2">Mobile app for citizen whistle-blowing</option>
+          <option value="3">Features for federated social networks</option>
+          <option value="4">Mobile app for Discourse</option>
+          <option value="5">Improvements to Tor and its plugins</option>
+          <option value="6">Improvements to Diaspora/Kontalk/XMPP</option>
+          <option value="7">Improvements to Freedom Box</option>
+          <option value="8">Other</option>
+        </select>
+      </div>
+      <div class="item">
+        <input type="text" class="form-control" name="other" id="other" placeholder="If 'Other', enter your problem statement">
+      </div>
+      <div class="item">
+        <label for="other">Please confirm any other problem statements with the hack master.</label>
+      </div>
+      <div class="item">
+        <button type="submit" class="btn btn-primary">Register!</button>
+      </div>
+    </form>
   </div>
   <!-- /.container -->
   <?php
