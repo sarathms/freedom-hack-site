@@ -26,7 +26,48 @@ include 'includes/head.php';
 
     <p>The theme of the event is <b>Fork The Internet</b> and all the solutions to the problem statements should be ways to achieve this.</p>
 
-    <p><a href="register">Register now!</a></p>
+    <p><a href="register" class="btn btn-primary">Register now!</a></p>
+
+<h2>Contact Us</h2>
+<div class="row text-center">
+<div class="col-md-4 col-sm-8 hero-feature">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Santosh Kumar</h3>
+            <p><a href="mailto:santosh@hackerearth.com" class="btn btn-default">santosh@hackerearth.com</a></p>
+            <p>
+              <a href="tel:+919742219121" class="btn btn-success">+91 97422 19121</a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-8 hero-feature">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Abhiram Ravikumar</h3>
+            <p><a href="mailto:abhi12ravi@gmail.com" class="btn btn-default">abhi12ravi@gmail.com</a></p>
+            <p>
+              <a href="tel:+919789605121" class="btn btn-success">+91 97896 05121</a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-8 hero-feature">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Ayesha Ishrath</h3>
+            <p><a href="mailto:" class="btn btn-default"></a></p>
+            <p>
+              <a href="tel:" class="btn btn-success"></a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      
+</div>
   </div>
   <!-- /.container -->
   <?php
