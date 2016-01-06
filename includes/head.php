@@ -18,6 +18,9 @@
 
   <title>FreedomHack 2016</title>
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/ico" href="../images/favicon.ico">
+
   <!-- Font awesome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
