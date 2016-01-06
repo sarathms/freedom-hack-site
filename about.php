@@ -26,6 +26,7 @@ include 'includes/head.php';
 
     <p>The theme of the event is <b>Fork The Internet</b> and all the solutions to the problem statements should be ways to achieve this.</p>
 
+<<<<<<< HEAD
     <p><a href="register" class="btn btn-primary">Register now!</a></p>
 
 <h2>Contact Us</h2>
@@ -68,6 +69,9 @@ include 'includes/head.php';
 
       
 </div>
+=======
+    <p><a href="register">Register now!</a></p>
+>>>>>>> ce2faf5548b5faeeb942e89a2250cf55664ce3b0
   </div>
   <!-- /.container -->
   <?php
