@@ -58,9 +58,9 @@ include 'includes/head.php';
         <div class="thumbnail">
           <div class="caption">
             <h3>Ayesha Ishrath</h3>
-            <p><a href="mailto:" class="btn btn-default"></a></p>
+            <p><a href="mailto:ayesha.ishrath95@gmail.com" class="btn btn-default">ayesha.ishrath95@gmail.com</a></p>
             <p>
-              <a href="tel:" class="btn btn-success"></a>
+              <a href="tel:+919035089892" class="btn btn-success">+91 90350 89892</a>
             </p>
           </div>
         </div>
