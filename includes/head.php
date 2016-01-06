@@ -16,7 +16,7 @@
   <meta property="og:type" content="website"/>
   <!-- end Facbook tags -->
 
-  <title>FreedomHack</title>
+  <title>FreedomHack 2016</title>
 
   <!-- Font awesome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
