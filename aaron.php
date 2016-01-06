@@ -33,6 +33,9 @@ include 'includes/head.php';
     <p>
       <iframe width="854" height="480" src="https://www.youtube.com/embed/vXr-2hwTk58" frameborder="0" allowfullscreen></iframe>
     </p>
+    <p>
+      Read more about Aaron Swartz <a href="https://en.wikipedia.org/wiki/Aaron_Swartz" target="_blank">here</a>.
+    </p>
   </div>
 
   <!-- /.container -->
