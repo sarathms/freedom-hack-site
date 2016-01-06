@@ -10,7 +10,7 @@
   <!-- Facebook tags -->
   <meta property="og:title" content="FreedomHack 2.0"/>
   <meta property="og:description" content="FreedomHack- Aaron Swartz Memorial Hackathon"/>
-  <meta property="og:image" content="images/og-image.png" />
+  <meta property="og:image" content="https://freedomhack.fsmk.org/images/og-image.png" />
   <meta property="og:url" content="https://freedomhack.fsmk.org/"/>
   <meta property="og:site_name" content="FreedomHack"/>
   <meta property="og:type" content="website"/>
