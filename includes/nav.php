@@ -28,6 +28,9 @@
           <a href="rules-and-regulations">Rules &amp; Regulations</a>
         </li>
         <li>
+          <a href="sponsors">Sponsors</a>
+        </li>
+        <li>
           <a href="who-was-aaron-swartz">Who Was Aaron Swartz?</a>
         </li>
         <li>
