@@ -31,7 +31,7 @@ include 'includes/head.php';
         <div class="thumbnail">
           <div class="caption">
             <h3>Register</h3>
-            <p>Interested in signing up? Register for FreedomHack now!</p>
+            <p>Interested in signing up? Register for FreedomHack 2016 now!</p>
             <p>
               <a href="register" class="btn btn-primary">Register</a>
             </p>
@@ -55,7 +55,7 @@ include 'includes/head.php';
         <div class="thumbnail">
           <div class="caption">
             <h3>Where?</h3>
-            <p>FreedomHack will be held at the offices of HackerEarth, which is located in Bangalore, Koramangala.</p>
+            <p>FreedomHack 2016 will be held at the offices of HackerEarth, which is located in Bangalore, Koramangala.</p>
             <p>
               <a href="https://www.google.co.in/maps/place/HackerEarth/@12.9336569,77.6145849,16.75z/data=!4m6!1m3!3m2!1s0x3bae144482c932d5:0xdc71453c34075c4c!2sHackerEarth!3m1!1s0x3bae144482c932d5:0xdc71453c34075c4c" class="btn btn-success" target="_blank">Locate on Google Maps</a>
             </p>
@@ -67,7 +67,7 @@ include 'includes/head.php';
         <div class="thumbnail">
           <div class="caption">
             <h3>When?</h3>
-            <p>FreedomHack will kick off on 9th January, 2016 and end about 24 hours later, on 10th January.</p>
+            <p>FreedomHack 2016will kick off on 9th January, 2016 and end about 24 hours later, on 10th January.</p>
             <p><a href="about" class="btn btn-primary">Contact us for more details</a>
             </p>
           </div>
