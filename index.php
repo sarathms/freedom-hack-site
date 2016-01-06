@@ -18,7 +18,7 @@ include 'includes/head.php';
     </div>
     <div class="content">
       <h1>FreedomHack 2016</h1>
-      <p>Welcome to FreedomHack!</p>
+      <p>A Hackathon in the memory of Aaron Swartz</p>
       <p><a href="register" class="btn btn-default btn-lg">Register</a>
       </p>
       <!--<p class=""style="float: right; margin-top: -40px;"><a href="http://fsmk.org" target="_blank"><img style="float: right;" src="images/fsmklogo-white.png" width=5%></a><a href="http://hackerearth.com" target="_blank"><img style="float: right;" src="images/he-logo.png" width=5%></a></p>-->
