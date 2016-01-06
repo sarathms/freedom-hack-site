@@ -57,7 +57,7 @@ include 'includes/head.php';
             <h3>Where?</h3>
             <p>FreedomHack 2016 will be held at the offices of HackerEarth, which is located in Bangalore, Koramangala.</p>
             <p>
-              <a href="https://www.google.co.in/maps/place/HackerEarth/@12.9336569,77.6145849,16.75z/data=!4m6!1m3!3m2!1s0x3bae144482c932d5:0xdc71453c34075c4c!2sHackerEarth!3m1!1s0x3bae144482c932d5:0xdc71453c34075c4c" class="btn btn-success" target="_blank">Locate on Google Maps</a>
+              <a href="http://www.openstreetmap.org/node/1950357103" class="btn btn-success" target="_blank">Locate on OpenStreetMap</a>
             </p>
           </div>
         </div>
