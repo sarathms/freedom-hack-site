@@ -13,8 +13,13 @@ include 'includes/head.php';
 
   <!-- Header for the page -->
   <header class="jumbotron hero-spacer">
-    <h1>Our Sponsors</h1>
-    <p>These guys made all this happen!</p>
+    <div class="aaron">
+      <img src="images/aaron.png">
+    </div>
+    <div class="content">
+      <h1>Our Sponsors</h1>
+      <p>These guys made all this happen!</p>
+    </div>
   </header>
 
   <!-- Page Content -->

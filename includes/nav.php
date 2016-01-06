@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar navbar-inverse" role="navigation">
+<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
   <div class="container">
     <!-- Create mobile toggle button and bar -->
     <div class="navbar-header">

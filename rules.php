@@ -13,8 +13,13 @@ include 'includes/head.php';
 
   <!-- Header for the page -->
   <header class="jumbotron hero-spacer">
-    <h1>Rules &amp; Regulations</h1>
-    <p>The code of conduct is important to ensure <i>everybody</i> has a nice time.</p>
+    <div class="aaron">
+      <img src="images/aaron.png">
+    </div>
+    <div class="content">
+      <h1>Rules &amp; Regulations</h1>
+      <p>The code of conduct is important to ensure <i>everybody</i> has a nice time.</p>
+    </div>
   </header>
 
   <!-- Page Content -->
@@ -27,7 +32,7 @@ include 'includes/head.php';
     <p><h2>The Less Quick Version</h2></p>
 
     <p>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, race, ethnicity, nationality, religion, sexual images in public spaces, intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.</p>
-
+    
     <p>Photography is encouraged, but other participants must be given a reasonable chance to opt out from being photographed. If they object to the taking of their photograph, comply with their request. It is inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or where participants are sleeping).</p>
 
     <p>Participants asked to stop any harassing behavior are expected to comply immediately.</p>

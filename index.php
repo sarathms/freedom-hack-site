@@ -13,11 +13,16 @@ include 'includes/head.php';
 
   <!-- Jumbotron Header -->
   <header class="jumbotron hero-spacer">
-    <h1>FreedomHack 2016</h1>
-    <p>Welcome to FreedomHack!</p>
-    <p><a href="register" class="btn btn-primary btn-lg">Register</a>
-    </p>
-    <!--<p class=""style="float: right; margin-top: -40px;"><a href="http://fsmk.org" target="_blank"><img style="float: right;" src="images/fsmklogo-white.png" width=5%></a><a href="http://hackerearth.com" target="_blank"><img style="float: right;" src="images/he-logo.png" width=5%></a></p>-->
+    <div class="aaron">
+      <img src="images/aaron.png">
+    </div>
+    <div class="content">
+      <h1>FreedomHack 2016</h1>
+      <p>Welcome to FreedomHack!</p>
+      <p><a href="register" class="btn btn-default btn-lg">Register</a>
+      </p>
+      <!--<p class=""style="float: right; margin-top: -40px;"><a href="http://fsmk.org" target="_blank"><img style="float: right;" src="images/fsmklogo-white.png" width=5%></a><a href="http://hackerearth.com" target="_blank"><img style="float: right;" src="images/he-logo.png" width=5%></a></p>-->
+    </div>
   </header>
 
   <!--<hr>-->
