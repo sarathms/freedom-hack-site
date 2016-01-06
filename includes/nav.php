@@ -10,7 +10,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="home">FreedomHack</a>
+      <a class="navbar-brand" href="home">FreedomHack 2016</a>
     </div>
     <!-- All the links -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
