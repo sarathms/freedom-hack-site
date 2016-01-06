@@ -14,7 +14,7 @@ include 'includes/head.php';
   <!-- Header -->
   <header class="jumbotron hero-spacer">
 <h1>Schedule</h1>
-<p>This is the schedule for Freedom Hack!</p>
+<p>This is the schedule for FreedomHack!</p>
   </header>
 
   <!--  Content -->

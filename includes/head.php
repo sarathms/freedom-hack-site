@@ -7,7 +7,7 @@
 <meta name="keywords" content="freedom,hack,fsmk,freedomhack,hackerearth,hackathon,aaron,swartz">
     <meta name="author" content="Free Software Movement Karnataka">
 
-    <title>Freedom Hack</title>
+    <title>FreedomHack</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

@@ -14,13 +14,13 @@ include 'includes/head.php';
   <!-- Header for the page -->
   <header class="jumbotron hero-spacer">
     <h1>About</h1>
-    <p>Who are we and why are we doing Freedom Hack?</p>
+    <p>Who are we and why are we doing FreedomHack?</p>
   </header>
 
   <!-- Page Content -->
   <div class="container">
 
-    <p>Freedom Hack is a 24 hour Hackathon which is being organised by Free Software Movement Karnataka(FSMK) in association with Hacker Earth. Freedom Hack is being organised in the memory of the late Aaron Swartz, an Internet activist who fought for the open and free Internet platform. You can read more about Aaron Swartz <a href="who-was-aaron-swartz">here</a>.</p>
+    <p>FreedomHack is a 24 hour Hackathon which is being organised by Free Software Movement Karnataka(FSMK) in association with Hacker Earth. FreedomHack is being organised in the memory of the late Aaron Swartz, an Internet activist who fought for the open and free Internet platform. You can read more about Aaron Swartz <a href="who-was-aaron-swartz">here</a>.</p>
 
     <p>January is celebrated as the month of Data Privacy and so, we call all hackers to contribute to make the Internet more open.</p>
 
