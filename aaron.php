@@ -38,7 +38,7 @@ include 'includes/head.php';
       [2] <a href="http://www.aaronsw.com/weblog/everybodysays" target="_blank">http://www.aaronsw.com/weblog/everybodysays</a><br>
       [3] <a href="http://www.democracynow.org/2013/1/14/freedom_to_connect_aaron_swartz_1986" target="_blank">http://www.democracynow.org/2013/1/14/freedom_to_connect_aaron_swartz_1986</a><br>
       [4] <a href="https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz" target="_blank">https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz</a>
-</p>
+    </p>
   </div>
 
   <!-- /.container -->
