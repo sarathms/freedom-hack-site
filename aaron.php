@@ -31,7 +31,9 @@ include 'includes/head.php';
       Aaron's life and his contributions to the world have been captured in the documentary The Internet's Own Boy, which has been embeded below.
     </p>
     <p>
-      <iframe width="854" height="480" src="https://www.youtube.com/embed/vXr-2hwTk58" frameborder="0" allowfullscreen></iframe>
+      <div class="video-wrapper">
+        <iframe src="https://archive.org/embed/TheInternetsOwnBoyTheStoryOfAaronSwartz" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+      </div>
     </p>
     <p>
       Read more about Aaron Swartz <a href="https://en.wikipedia.org/wiki/Aaron_Swartz" target="_blank">here</a>.
