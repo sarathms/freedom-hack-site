@@ -27,7 +27,7 @@ body {
 
 @media screen and (min-width: 1024px) {
   div[class="caption"] {
-    min-height: 200px;
+    min-height: 220px;
   }
 }
 
