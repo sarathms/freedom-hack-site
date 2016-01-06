@@ -25,13 +25,10 @@ include 'includes/head.php';
           <th>
             January 9th, 2016
           </th>
-          <th>
-
-          </th>
+          <th></th>
         </thead>
         <tbody>
           <tr>
-
             <td>
               12:00 PM
             </td>
@@ -40,7 +37,6 @@ include 'includes/head.php';
             </td>
           </tr>
           <tr>
-
             <td>
               01:00 PM
             </td>
@@ -49,7 +45,6 @@ include 'includes/head.php';
             </td>
           </tr>
           <tr>
-
             <td>
               03:30 PM
             </td>
@@ -58,7 +53,6 @@ include 'includes/head.php';
             </td>
           </tr>
           <tr>
-
             <td>
               06:30 PM
             </td>
@@ -75,7 +69,6 @@ include 'includes/head.php';
             </td>
           </tr>
           <tr>
-
             <td>
               11:30 PM
             </td>
@@ -83,69 +76,58 @@ include 'includes/head.php';
               Lightning Talk 2
             </td>
           </tr>
-        </tbody>
-      </table>
-
-      <table class="table" style="width: 50%;">
+          <thead>
+            <th>
+              January 10th, 2016
+            </th>
+            <th></th>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                09:00 AM
+              </td>
+              <td>
+                Breakfast
+              </td>
+            </tr>
+            <tr>
+              <td>
+                12:00 PM
+              </td>
+              <td>
+                Final Wrap Up call
+              </td>
+            </tr>
+            <tr>
+              <td>
+                01:00 PM
+              </td>
+              <td>
+                Stop hacking
+              </td>
+            </tr>
+            <tr>
+              <td>
+                01:15 PM
+              </td>
+              <td>
+                Pitch your hacks
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <!--<table class="table" style="width: 50%;">
         <thead>
-          <th>
-            January 10th, 2016
-          </th>
-          <th>
-
-          </th>
-        </thead>
-        <tbody>
-          <tr>
-
-            <td>
-              09:00 AM
-            </td>
-            <td>
-              Breakfast
-            </td>
-          </tr>
-          <tr>
-
-            <td>
-              12:00 PM
-            </td>
-            <td>
-              Final Wrap Up call
-            </td>
-          </tr>
-          <tr>
-
-            <td>
-              01:00 PM
-            </td>
-            <td>
-              Stop hacking
-            </td>
-          </tr>
-          <tr>
-
-            <td>
-              01:15 PM
-            </td>
-            <td>
-              Pitch your hacks
-            </td>
-          </tr>
-
-        </tbody>
-      </table>
-      <!--<table class="table" style="width: 50%;">
-      <thead>
+        <th>
+        Date
+      </th>
       <th>
-      Date
+      Time
     </th>
     <th>
-    Time
+    Event
   </th>
-  <th>
-  Event
-</th>
 </thead>
 <tbody>
 <tr>
