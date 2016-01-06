@@ -30,6 +30,14 @@ body {
     min-height: 220px;
   }
 }
+.container {
+  text-align: justify;
+}
+.ellipses {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
 div[class="video-wrapper"] {
   overflow: hidden;
   width: 100%;

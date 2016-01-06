@@ -33,7 +33,7 @@ include 'includes/head.php';
         <iframe src="https://archive.org/embed/TheInternetsOwnBoyTheStoryOfAaronSwartz" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
       </div>
     </p>
-    <p>
+    <p class="ellipses">
       [1] <a href="https://en.wikipedia.org/wiki/Aaron_Swartz" target="_blank">https://en.wikipedia.org/wiki/Aaron_Swartz</a><br>
       [2] <a href="http://www.aaronsw.com/weblog/everybodysays" target="_blank">http://www.aaronsw.com/weblog/everybodysays</a><br>
       [3] <a href="http://www.democracynow.org/2013/1/14/freedom_to_connect_aaron_swartz_1986" target="_blank">http://www.democracynow.org/2013/1/14/freedom_to_connect_aaron_swartz_1986</a><br>
