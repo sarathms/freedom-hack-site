@@ -28,13 +28,13 @@ include 'includes/head.php';
 
     <p><a href="register" class="btn btn-primary">Register now!</a></p>
 
-<h2>Contact Us</h2>
-<div class="row text-center">
-<div class="col-md-4 col-sm-8 hero-feature">
+    <h2>Contact Us</h2>
+    <div class="row text-center">
+      <div class="col-md-4 col-sm-8 hero-feature">
         <div class="thumbnail">
           <div class="caption">
             <h3>Santosh Kumar</h3>
-            <p><a href="mailto:santosh@hackerearth.com" class="btn btn-default">santosh@hackerearth.com</a></p>
+            <p><a href="mailto:san00718@gmail.com" class="btn btn-default">san00718@gmail.com</a></p>
             <p>
               <a href="tel:+919742219121" class="btn btn-success">+91 97422 19121</a>
             </p>
@@ -67,7 +67,7 @@ include 'includes/head.php';
       </div>
 
 
-</div>
+    </div>
 
   </div>
   <!-- /.container -->
