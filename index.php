@@ -67,7 +67,7 @@ include 'includes/head.php';
         <div class="thumbnail">
           <div class="caption">
             <h3>When?</h3>
-            <p>FreedomHack 2016will kick off on 9th January, 2016 and end about 24 hours later, on 10th January.</p>
+            <p>FreedomHack 2016 will kick off on 9th January, 2016 and end about 24 hours later, on 10th January.</p>
             <p><a href="about" class="btn btn-primary">Contact us for more details</a>
             </p>
           </div>
