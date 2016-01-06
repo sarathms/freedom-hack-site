@@ -17,7 +17,7 @@ include 'includes/head.php';
     <p>Welcome to FreedomHack!</p>
     <p><a href="register" class="btn btn-primary btn-lg">Register</a>
     </p>
-    <p style="float: right; margin-top: -20px;"><a href="http://fsmk.org" target="_blank"><img style="float: right;" src="images/fsmklogo-white.png" width=5%></a></p>
+    <!--<p class=""style="float: right; margin-top: -40px;"><a href="http://fsmk.org" target="_blank"><img style="float: right;" src="images/fsmklogo-white.png" width=5%></a><a href="http://hackerearth.com" target="_blank"><img style="float: right;" src="images/he-logo.png" width=5%></a></p>-->
   </header>
 
   <!--<hr>-->
