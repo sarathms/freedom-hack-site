@@ -7,7 +7,7 @@
   <meta name="keywords" content="freedom,hack,fsmk,freedomhack,hackerearth,hackathon,aaron,swartz">
   <meta name="author" content="Free Software Movement Karnataka">
 
-  !-- Facebook tags -->
+  <!-- Facebook tags -->
   <meta property="og:title" content="FreedomHack 2.0"/>
   <meta property="og:description" content="FreedomHack- Aaron Swartz Memorial Hackathon"/>
   <meta property="og:image" content="images/og-image.png" />
