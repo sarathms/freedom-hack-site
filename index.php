@@ -17,6 +17,7 @@ include 'includes/head.php';
     <p>Welcome to FreedomHack!</p>
     <p><a href="register" class="btn btn-primary btn-lg">Register</a>
     </p>
+<!--<p style="float: right;"><a href="http://fsmk.org" target="_blank"><img style="float: right;" src="images/fsmklogo-white.png" width=5%></a></p>-->
   </header>
 
   <!--<hr>-->
@@ -67,7 +68,7 @@ include 'includes/head.php';
           <div class="caption">
             <h3>When?</h3>
             <p>FreedomHack will kick off on 9th January, 2016 and end about 24 hours later, on 10th January.</p>
-            <p>
+            <p><a href="about" class="btn btn-primary">Contact us for more details</a>
             </p>
           </div>
         </div>
