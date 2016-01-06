@@ -36,9 +36,12 @@ div[class="video-wrapper"] {
   padding-bottom: 10px;
 }
 .video-wrapper iframe {
-  width: 100%; 
+  width: 100%;
 }
 @media screen and (min-width: 1024px) {
+  .video-wrapper {
+    text-align: center;
+  }
   .video-wrapper iframe {
     width: 640px;
     height: 480px;
