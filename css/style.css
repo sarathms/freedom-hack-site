@@ -120,6 +120,14 @@ div[class="footer-wrapper"] {
   border-radius: 0;
 }
 
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-nav li a {
+  color: #fff;
+}
+
 div[class="item"] {
   margin: 10px;
 }
