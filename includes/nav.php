@@ -16,7 +16,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a href="home">Home</a>
+          <a href="fork-the-internet">#ForkTheInternet</a>
         </li>
         <li>
           <a href="register">Register</a>
