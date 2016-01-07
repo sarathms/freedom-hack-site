@@ -5,14 +5,8 @@ body {
   font-family: "Open Sans",sans-serif;
 }
 
-body {
-  //padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-}
-
 .hero-spacer {
-  //margin-top: 50px;
   background-color: #000;
-  //color: #9D9D9D;
   color: #fff;
   width: 100%;
   padding-left: 10px;
@@ -25,6 +19,7 @@ body {
     min-height: 100vh;
   }
 }
+
 .hero-feature {
   margin-bottom: 30px;
 }
@@ -50,6 +45,7 @@ body {
     width: 60%;
   }
 }
+
 .aaron img {
   width: 75%;
 }
@@ -57,45 +53,49 @@ body {
 .container {
   text-align: justify;
 }
+
 .ellipses {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+
 div[class="video-wrapper"] {
   overflow: hidden;
   width: 100%;
   padding-bottom: 10px;
 }
+
 .video-wrapper iframe {
   width: 100%;
 }
 
 .video-wrapper-home iframe {
-  //width: 100%;
   padding-left: 10px;
   padding-right: 10px;
 }
 
 .twitter-feed {
-padding-left: 10px;
-padding-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-
 
 @media screen and (min-width: 1024px) {
   .video-wrapper {
     text-align: center;
   }
+
   .video-wrapper iframe {
     width: 640px;
     height: 480px;
   }
+
   .twitter-feed {
     width: 50%;
     float: right;
     margin-right: -20px;
   }
+
   .video-wrapper-home {
     width: 50%;
     padding-top: 70px;
@@ -107,8 +107,6 @@ padding-right: 10px;
 
 div[class="footer-wrapper"] {
   margin-top: 50px;
-  //border-top: 1px solid #ddd;
-  //border-bottom: 1px solid #ddd;
   background-color: #000;
   color: #fff;
 }
