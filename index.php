@@ -82,7 +82,17 @@ include 'includes/head.php';
     </div>
     <!-- /.row -->
 
-
+    <div class="row text-center">
+      <div class="video-wrapper-home">
+        <h2>Learn more about Aaron Swartz</h2>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/RvsxnOg0bJY' frameborder='0' allowfullscreen></iframe></div>
+        <b>Read more about Aaron Swartz <a href="who-was-aaron-swartz">here</a>.</b>
+      </div>
+      <div class="twitter-feed">
+        <a class="twitter-timeline"  href="https://twitter.com/hashtag/ForkTheInternet" data-widget-id="684933373840637952">#ForkTheInternet Tweets</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
+    </div>
 
   </div>
   <!-- /.container -->

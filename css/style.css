@@ -71,6 +71,19 @@ div[class="video-wrapper"] {
 .video-wrapper iframe {
   width: 100%;
 }
+
+.video-wrapper-home iframe {
+  //width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.twitter-feed {
+padding-left: 10px;
+padding-right: 10px;
+}
+
+
 @media screen and (min-width: 1024px) {
   .video-wrapper {
     text-align: center;
@@ -79,7 +92,20 @@ div[class="video-wrapper"] {
     width: 640px;
     height: 480px;
   }
+  .twitter-feed {
+    width: 50%;
+    float: right;
+    margin-right: -20px;
+  }
+  .video-wrapper-home {
+    width: 50%;
+    padding-top: 70px;
+    float: left;
+    margin-left: 20px;
+    padding-right: 40px;
+  }
 }
+
 div[class="footer-wrapper"] {
   margin-top: 50px;
   //border-top: 1px solid #ddd;
