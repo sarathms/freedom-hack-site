@@ -29,7 +29,7 @@ include 'includes/head.php';
 
     <p>January is celebrated as the month of Data Privacy and so, we call all hackers to contribute to make the Internet more open.</p>
 
-    <p>The theme of the event is <b>Fork The Internet</b> and all the solutions to the problem statements should be ways to achieve this.</p>
+    <p>The theme of the event is <b>Fork The Internet</b> and all the solutions to the <a href="fork-the-internet">problem statements</a> should be ways to achieve this.</p>
 
     <p><a href="register" class="btn btn-primary">Register now!</a></p>
 
