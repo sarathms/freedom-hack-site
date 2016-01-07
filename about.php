@@ -39,12 +39,12 @@ include 'includes/head.php';
 
     <p>
       2. <b>Mobile app for citizen whistle-blowing</b><br>
-      Discussed in detail <a href="https://discuss.fsmk.org/t/mobile-app-for-citizen-whistle-blowing-celebrating-aaron-swartz/156">here</a>.
+      Discussed in detail <a href="https://discuss.fsmk.org/t/mobile-app-for-citizen-whistle-blowing-celebrating-aaron-swartz/156" target="_blank">here</a>.
     </p>
 
     <p>
       3. <b>Features for federated social networks</b><br>
-      Discussed in detail <a href="https://discuss.fsmk.org/t/federation-on-discourse/95">here</a>.
+      Discussed in detail <a href="https://discuss.fsmk.org/t/federation-on-discourse/95" target="_blank">here</a>.
     </p>
 
     <p>
