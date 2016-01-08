@@ -25,7 +25,7 @@ include 'includes/head.php';
   <div class="container">
 
     <p>
-      The idea is to fork the internet. These are the problem statements we believe will help us achieve that.
+      The idea is to fork the internet. These are the various themes we believe will help us achieve that.
     </p>
 
     <p>
@@ -59,6 +59,20 @@ include 'includes/head.php';
     <p>
       7. <b>Improvements to Freedom Box</b>
     </p>
+
+    <p id="statement"><b>Problem statement:</b><i> Help the rural people who are currently not connected
+    			to the Internet by  providing them connectivity via ad-hoc networks</i> </p>
+
+    <p><b>Description: </b>Connectivity needs to be provided in the form of ad hoc, distributed
+    networks. Once connectivity is established, services that run on these
+    networks need to be designed. These services must be benefetial to the
+    poor/farmers/fishermen/etc.</p>
+
+    <p>Your hack can be either the implementation of the ad hoc network itself
+    or a service that runs on such networks. If designing a service, keep in
+    mind that it should function with little/no access to the Internet. A
+    localised economy must be created and used if applicable.</p>
+
 
   </div>
   <!-- /.container -->
