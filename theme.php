@@ -40,7 +40,7 @@ include 'includes/head.php';
           or a service that runs on such networks. If designing a service, keep in
           mind that it should function with little/no access to the Internet. A
           localised economy must be created and used if applicable.</p>
-          
+          <hr>          
           <p>
             1. <b>Communication app via mesh network</b><br>
             Networks do not allow two phones to talk to each other directly. We need a way to allow two phone users to talk to each other using community band channels via low overhead networks.  The communication channel should support end-to-end encryption and should be secure. This could be a WhatsApp/Telegram replacement.
